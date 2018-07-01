@@ -14,6 +14,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void submitQuiz(View view){
-        Toast.makeText(this, "Your scored 0/6", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Your scored 0/6 \n Try Again", Toast.LENGTH_SHORT).show();
     }
 }
